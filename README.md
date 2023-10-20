@@ -3,12 +3,6 @@
 This a curated collection guides, tips, tricks and strategies for encouraging contributions in open source communities, particularly relevant for early stage companies.
 
 
-## Contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 ### Overal growth strategies
 
 - [[Gitlab] Open source growth strategy](https://airbyte.com/blog/what-we-learned-from-our-soft-launch-and-why-you-should-consider-one)
